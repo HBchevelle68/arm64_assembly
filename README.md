@@ -1,2 +1,2 @@
 # arm64_assembly
-Learning arm64 assembly programming and reversing
+Learning aarch64 (arm64v8-a Apple Silicon M1) assembly programming
